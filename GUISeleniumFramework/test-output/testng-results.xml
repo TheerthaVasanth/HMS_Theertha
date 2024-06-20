@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Is able to Navigate PATIENT | ADD PATIENT ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-20T06:47:18Z" name="Default suite" finished-at="2024-06-20T06:47:47Z" duration-ms="29536">
+    <groups>
+      <group name="smokeTest">
+        <method signature="Createpatients.VerifyDrAbleToCreatePatinet()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" name="VerifyDrAbleToCreatePatinet" class="com.Hospital.HMS.DoctorTest.Createpatients"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-06-20T06:47:18Z" name="Default test" finished-at="2024-06-20T06:47:47Z" duration-ms="29536">
+      <class name="com.Hospital.HMS.DoctorTest.Createpatients">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:18Z" name="configBS" finished-at="2024-06-20T06:47:18Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:18Z" name="configBC" finished-at="2024-06-20T06:47:39Z" duration-ms="21442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:39Z" name="configBM" finished-at="2024-06-20T06:47:44Z" duration-ms="4964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="VerifyDrAbleToCreatePatinet()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:44Z" name="VerifyDrAbleToCreatePatinet" finished-at="2024-06-20T06:47:47Z" duration-ms="2559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Is able to Navigate PATIENT | ADD PATIENT ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyDrAbleToCreatePatinet -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:47Z" name="configAM" finished-at="2024-06-20T06:47:47Z" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:47Z" name="configAC" finished-at="2024-06-20T06:47:47Z" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.Hospital.HMS.DoctorTest.Createpatients@5a7fe64f]" started-at="2024-06-20T06:47:47Z" name="configAS" finished-at="2024-06-20T06:47:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.Hospital.HMS.DoctorTest.Createpatients -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
